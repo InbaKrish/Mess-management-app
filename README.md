@@ -1,8 +1,8 @@
 # Mess-management-app
 
-    Fully developed flutter app with firebase - cloud firestore database
+ Fully developed flutter app with firebase - cloud firestore database
     
-    “ Hostel Mess management app” , an app developed for managing the hostel mess facilities . The main motive of this project is to minimize the food wastage by pre providing the food menu details to the consumers ( students in this case) , so that they can plan accordingly .
+ “ Hostel Mess management app” , an app developed for managing the hostel mess facilities . The main motive of this project is to minimize the food wastage by pre providing the food menu details to the consumers ( students in this case) , so that they can plan accordingly .
 
 ### Dependencies used
 ```bash
